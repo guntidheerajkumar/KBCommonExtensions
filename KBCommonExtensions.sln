@@ -5,8 +5,6 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KBCommonExtensions", "KBCommonExtensions\KBCommonExtensions.csproj", "{4E2542C9-2CA9-4165-ABE0-447C03E5F3FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{B5538A4C-E911-4583-A882-1DAF9EA30E1C}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{4E2542C9-2CA9-4165-ABE0-447C03E5F3FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E2542C9-2CA9-4165-ABE0-447C03E5F3FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E2542C9-2CA9-4165-ABE0-447C03E5F3FC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B5538A4C-E911-4583-A882-1DAF9EA30E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B5538A4C-E911-4583-A882-1DAF9EA30E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B5538A4C-E911-4583-A882-1DAF9EA30E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B5538A4C-E911-4583-A882-1DAF9EA30E1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
